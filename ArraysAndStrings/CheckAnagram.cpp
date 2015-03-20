@@ -1,5 +1,7 @@
 #include<iostream>
 #include<string>
+#include<unordered_map>
+#include<algorithm>
 using namespace std;
 
 bool checkAnagram(string s1, string s2){
